@@ -1,6 +1,6 @@
 ---
 title: Предишни издания
-feature_image: "/assets/board3.jpg"
+feature_image: "/assets/board3.jpeg"
 ---
 
 {% include button.html text="2022 - Математика, първи ден" link="https://www.dropbox.com/scl/fo/fdlnr9j97b2liyiaj1jab/h?dl=0&rlkey=oh8omuz9ogj175miosr56i7ct" %}
