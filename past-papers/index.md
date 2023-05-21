@@ -1,6 +1,6 @@
 ---
 title: Предишни Издания
-feature_image: "https://picsum.photos/1300/400?image=989"
+"https://burgaschallenge.github.io/assets/board.jpg"
 ---
 
 {% include button.html text="2022 - Математика, първи ден" link="https://www.dropbox.com/scl/fo/fdlnr9j97b2liyiaj1jab/h?dl=0&rlkey=oh8omuz9ogj175miosr56i7ct" %}
