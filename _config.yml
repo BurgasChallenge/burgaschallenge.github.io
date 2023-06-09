@@ -44,6 +44,8 @@ navigation_header:
   url: /problems/
 - title: Предишни издания
   url: /past-papers/
+- title: Предай решения
+  url: /submit/
 
 
 # Footer nav
