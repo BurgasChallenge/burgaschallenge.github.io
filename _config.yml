@@ -38,12 +38,12 @@ navigation_header:
   url: /blog/
 - title: За нас
   url: /team/
+- title: Предишни издания
+  url: /past-papers/
 - title: Пето издание 2023
   url: /current/
 - title: Задачи
   url: /problems/
-- title: Предишни издания
-  url: /past-papers/
 - title: Предай решения
   url: /submit/
 
