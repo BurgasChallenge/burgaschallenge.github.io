@@ -3,7 +3,7 @@ title: Задачи
 ---
 Запознайте се с инструктажа [тук](https://burgaschallenge.github.io/%D0%BE%D0%B1%D1%89%D0%B8/2023/06/10/instructions/)!
 
-{% include button.html text="Задачи по математика за 5 клас" link="./m5prob.pdf" %}
+{% include button.html text="Задачи по математика за 5 клас" link="./m5probv2.pdf" %}
 
 {% include button.html text="Задачи по математика за 6 клас" link="./m6prob.pdf" %}
 
