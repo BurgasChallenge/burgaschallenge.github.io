@@ -1,24 +1,31 @@
 ---
 title: Задачи
 ---
-
-
-{% include button.html text="Задачи по математика за 5 клас" link="./m5prob.pdf" %}
-
-{% include button.html text="Задачи по математика за 6 клас" link="./m6prob.pdf" %}
-
-{% include button.html text="Задачи по математика за 7-8 клас" link="./m78prob.pdf" %}
-
-{% include button.html text="Задачи по математика за 9-12 клас, ден 1" link="./m912d1prob.pdf" %}
-
-{% include button.html text="Задачи по математика за 9-12 клас, ден 2" link="./m912d2prob.pdf" %}
-
-{% include button.html text="Решения по математика" link="./msol23.pdf" %}
-
-<!--
 Запознайте се с инструктажа [тук](https://burgaschallenge.github.io/%D0%BE%D0%B1%D1%89%D0%B8/2023/06/10/instructions/)!
 
-Предайте решенията си [тук](../submit/).
--->
+Задачите ще бъдат достъпни от 9:00 нататък.
 
-Очаквайте състезанието по физика на 24.06!
+{% include button.html text="Задачи по физика за 5 клас" link="./p5prob.pdf" %}
+
+{% include button.html text="Задачи по физика за 6 клас" link="./p6prob.pdf" %}
+
+{% include button.html text="Задачи по физика за 7-8 клас" link="./p78prob.pdf" %}
+
+{% include button.html text="Задачи по физика за 9-10 клас" link="./p910prob.pdf" %}
+
+{% include button.html text="Задачи по физика за 11-12 клас" link="./p1112prob.pdf" %}
+
+Предайте решенията си [тук](../submit/).
+
+<!--
+{% include button.html text="Решения по физика за 5 клас" link="./p5sol.pdf" %}
+
+{% include button.html text="Решения по физика за 6 клас" link="./p6sol.pdf" %}
+
+{% include button.html text="Решения по физика за 7-8 клас" link="./p78sol.pdf" %}
+
+{% include button.html text="Решения по физика за 9-10 клас" link="./p910sol.pdf" %}
+
+{% include button.html text="Решения по физика за 11-12 клас" link="./p1112sol.pdf" %}
+
+-->
