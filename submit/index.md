@@ -1,6 +1,7 @@
 ---
 title: Предай решенията си
 ---
+Начинът на предаване е описан в [инструктажа](https://burgaschallenge.github.io/%D0%BE%D0%B1%D1%89%D0%B8/2023/06/10/instructions/). Крайният срок за предаване е 30 минути след даденото време за работа на всяка от темите.   
 
 {% include button.html text="Физика, 5 клас" link="https://www.dropbox.com/request/4GVKHaZU6awAU68Faelm" %}
 
