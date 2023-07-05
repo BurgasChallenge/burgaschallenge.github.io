@@ -44,8 +44,8 @@ navigation_header:
   url: /current/
 - title: Задачи
   url: /problems/
-- title: Предай решения
-  url: /submit/
+- title: Резултати
+  url: /results/
 
 
 # Footer nav
