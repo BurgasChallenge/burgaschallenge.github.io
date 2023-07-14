@@ -4,13 +4,13 @@ title: Резултати
 
 Окончателни резултати по математика:
 
-{% include button.html text="Математика - 5 клас" link="./m5res.pdf" %}
+{% include button.html text="Математика - 5 клас" link="./m5res_final.pdf" %}
 
-{% include button.html text="Математика - 6 клас" link="./m6res.pdf" %}
+{% include button.html text="Математика - 6 клас" link="./m6res_final.pdf" %}
 
-{% include button.html text="Математика - 7-8 клас" link="./m78res.pdf" %}
+{% include button.html text="Математика - 7-8 клас" link="./m78res_final.pdf" %}
 
-{% include button.html text="Математика - 9-12 клас" link="./m912res.pdf" %}
+{% include button.html text="Математика - 9-12 клас" link="./m912res_final.pdf" %}
 
 Окончателни резултати по физика:
 
